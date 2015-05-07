@@ -1,0 +1,1 @@
+Code for doing divide and conquer on graphs and creating decompositions for doing that. Example decompositions are boolean-width and tree-width. The main focus is on boolean-width.
